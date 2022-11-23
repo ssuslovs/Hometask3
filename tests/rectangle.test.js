@@ -12,5 +12,5 @@ test('should properly output Area', () => {
 
 test('should properly output Info', () => {
     const outputNumber = getRectangleInfo(26,25)
-    expect(outputNumber).toBe(console.log());  
+    expect(outputNumber).toBe(outputNumber,Number);  
 })
