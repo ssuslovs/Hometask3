@@ -8,6 +8,7 @@
 
 # Console output should be like this: 
 
+```
 yarn run v1.22.19
 $ jest
   console.log
@@ -31,3 +32,4 @@ Snapshots:   0 total
 Time:        0.98 s, estimated 1 s
 Ran all test suites.
 Done in 1.92s.
+```
